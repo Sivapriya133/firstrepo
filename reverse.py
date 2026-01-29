@@ -10,8 +10,12 @@ def reverse(num):
 def isPalindrome(num):
     return num==reverse(num)
 
+
 print(reverse(1235))
 print(isPalindrome(1236))
+
+print(reverse(123))
+print(isPalindrome(1238))
 print(reverse(121))
 print(isPalindrome(121))
 
