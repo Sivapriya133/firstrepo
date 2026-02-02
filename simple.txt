@@ -1,0 +1,16 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+story 20
+ a=3
+b=5
+=======
+=======
+>>>>>>> Stashed changes
+story 19
+a=2
+b=20
+c=a+b
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes

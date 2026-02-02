@@ -1,5 +1,13 @@
 hi sample file
+<<<<<<< HEAD
 sssit is training 
 sssit have python course
 have a nice day
 
+=======
+<<<<<<< HEAD
+=======
+sssit is training 
+sssit have python course
+>>>>>>> parent of 7e1d33d (Update sample.txt)
+>>>>>>> develop

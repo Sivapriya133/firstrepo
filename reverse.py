@@ -11,7 +11,7 @@ def isPalindrome(num):
     return num==reverse(num)
 
 
-print(reverse(1235))
+print(reverse(12357))
 print(isPalindrome(1236))
 
 print(reverse(123))
@@ -28,3 +28,7 @@ def getPalindromes(start,end):
     return res
 print(getPalindromes(1,1000))
         
+story=20
+a=10
+b=20
+c=a+b
